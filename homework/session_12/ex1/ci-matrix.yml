@@ -1,4 +1,4 @@
-﻿name: Java Spring Boot CI Matrix
+name: Java Spring Boot CI Matrix
 
 on:
   push:
